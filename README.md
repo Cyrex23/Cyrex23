@@ -64,16 +64,33 @@
 
 ## 💼 Work Experience
 
-### 🏢 Intermedia *(Current)*
-> Software Developer
+### 🏢 Intermedia Intelligent Communications *(nov 2025 – Present · 6 months)*
+> **Software Developer** · Full-time · Lisboa, Portugal · Remote
 
-### 🏢 Apgar *(3 years)*
-> Full-Stack Developer
+- Responsible for developing and maintaining **Java microservices** using **Spring Boot**, following clean architecture and best practices.
+- Design and implement **RESTful APIs** to support scalable and high-availability backend systems.
+- Implement asynchronous communication between services using **RabbitMQ**, improving system decoupling and reliability.
+- Containerize applications with **Docker** and deploy them to **Kubernetes** clusters.
+- Write and maintain **unit tests** to ensure code quality, reliability, and ease of maintenance.
+- Contribute to deployment processes and **CI/CD pipelines**, supporting smooth releases across environments.
+- Work with **Snowflake** and **dbt**, supporting data transformations, analytics workflows, and backend data integrations.
+- Collaborate closely with cross-functional teams in a remote-first environment, contributing to technical discussions and solution design.
 
-- Responsible for implementing various modifications to both the frontend and backend of the IEFP website, utilizing **Java** for backend logic and **JSP, HTML, jQuery, and Bootstrap** for frontend development.
-- Worked within a **DevOps culture**, collaborating in daily stand-ups and weekly scrum sessions, with hands-on expertise in the full deployment pipeline (CI/CD).
-- Involved in **code reviews**, ensuring high-quality, maintainable code, and optimizing system performance.
-- **Technologies:** Java, Selenium, Cucumber, GitLab, MySQL, JSP, HTML5, Eclipse
+### 🏢 APGAR *(jan 2023 – nov 2025 · 2 years 11 months)*
+> **Junior Technical Consultant** · Full-time · Lisbon · Hybrid
+
+- Responsible for the development and maintenance of a **Master Data Management (MDM)** application built on **TIBCO EBX** for the client's Finance sector.
+- Play a key part in business-driven meetings within a multicultural team, contributing to discussions that shape technical and strategic decisions. Main focus on **backend programming (Java)** and customization of EBX, with a particular emphasis on its **workflows** to meet business requirements.
+- Involved in **code reviews**, ensuring code quality and consistency, as well as **deployments**, delivering robust solutions to production environments. Actively participating in daily stand-ups within an agile framework, fostering iterative development and close collaboration across teams.
+- Actively involved in the **Team Spirit** organization and events, focusing on team-building activities and fostering a positive and inclusive atmosphere within the community.
+- Engagement in job affairs to showcase APGAR's expertise.
+
+### 🏢 Capgemini *(jun 2022 – dez 2022 · 7 months)*
+> **Full Stack Developer** · Internship · Lisbon · Hybrid
+
+- Responsible for implementing various modifications to both the frontend and backend of the **IEFP website**, utilizing **Java** for backend logic and **JSP, HTML, jQuery, and Bootstrap** for frontend development. Ensured seamless user experience and system performance across both layers.
+- Worked within a **DevOps culture**, collaborating closely with cross-functional teams in daily stand-ups and weekly scrum sessions. Gained hands-on expertise in the full deployment pipeline, from development to production, including **CI/CD**.
+- Involved in **code reviews**, ensuring high-quality, maintainable code, and optimizing system performance. Actively contributed to problem-solving and improvement initiatives, enhancing website functionality and overall user satisfaction.
 
 ---
 

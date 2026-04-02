@@ -64,13 +64,30 @@
 
 ## 💼 Work Experience
 
-> 🚧 *Section coming soon — exciting things in the pipeline!*
+### 🏢 Intermedia *(Current)*
+> Software Developer
+
+### 🏢 Apgar *(3 years)*
+> Full-Stack Developer
+
+- Responsible for implementing various modifications to both the frontend and backend of the IEFP website, utilizing **Java** for backend logic and **JSP, HTML, jQuery, and Bootstrap** for frontend development.
+- Worked within a **DevOps culture**, collaborating in daily stand-ups and weekly scrum sessions, with hands-on expertise in the full deployment pipeline (CI/CD).
+- Involved in **code reviews**, ensuring high-quality, maintainable code, and optimizing system performance.
+- **Technologies:** Java, Selenium, Cucumber, GitLab, MySQL, JSP, HTML5, Eclipse
 
 ---
 
 ## 🎓 Education & Formation
 
-> 🚧 *Section coming soon — knowledge is power!*
+### 🏛️ Instituto Superior Técnico *(2019 – 2022)*
+**Master's in Computer Engineering** — specializing in Artificial Intelligence and Game Development
+- Delved into distributed programming, artificial intelligence, machine learning, and game development.
+- Thesis focused on **3D programming and ray tracing** applied to protein atom structures.
+
+### 🏛️ Instituto Superior de Engenharia de Coimbra *(2016 – 2019)*
+**Bachelor's Degree in Computer Engineering and Software Development**
+- Covered all aspects of information systems and programming fundamentals, with a strong focus on application development and backend programming languages.
+- Final project centred on **Data Science, Big Data, and Machine Learning**.
 
 ---
 
@@ -80,8 +97,8 @@
 
 *Send me an email or follow me — let's code together and grow further in this technology world!*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-ferreira)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-ferreira-b40031188/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelson.95.oliveira@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyrex23)
 
 </div>
